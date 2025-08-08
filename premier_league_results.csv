@@ -1,0 +1,381 @@
+home,away,score
+Arsenal F.C.,Aston Villa F.C.,2-2
+Arsenal F.C.,AFC Bournemouth,1-2
+Arsenal F.C.,Brentford F.C.,1-1
+Arsenal F.C.,Brighton & Hove Albion F.C.,1-1
+Arsenal F.C.,Chelsea F.C.,1-0
+Arsenal F.C.,Crystal Palace F.C.,2-2
+Arsenal F.C.,Everton F.C.,0-0
+Arsenal F.C.,Fulham F.C.,2-1
+Arsenal F.C.,Ipswich Town F.C.,1-0
+Arsenal F.C.,Leicester City F.C.,4-2
+Arsenal F.C.,Liverpool F.C.,2-2
+Arsenal F.C.,Manchester City F.C.,5-1
+Arsenal F.C.,Manchester United F.C.,2-0
+Arsenal F.C.,Newcastle United F.C.,1-0
+Arsenal F.C.,Nottingham Forest F.C.,3-0
+Arsenal F.C.,Southampton F.C.,3-1
+Arsenal F.C.,Tottenham Hotspur F.C.,2-1
+Arsenal F.C.,West Ham United F.C.,0-1
+Arsenal F.C.,Wolverhampton Wanderers F.C.,2-0
+Aston Villa F.C.,Arsenal F.C.,0-2
+Aston Villa F.C.,AFC Bournemouth,1-1
+Aston Villa F.C.,Brentford F.C.,3-1
+Aston Villa F.C.,Brighton & Hove Albion F.C.,2-2
+Aston Villa F.C.,Chelsea F.C.,2-1
+Aston Villa F.C.,Crystal Palace F.C.,2-2
+Aston Villa F.C.,Everton F.C.,3-2
+Aston Villa F.C.,Fulham F.C.,1-0
+Aston Villa F.C.,Ipswich Town F.C.,1-1
+Aston Villa F.C.,Leicester City F.C.,2-1
+Aston Villa F.C.,Liverpool F.C.,2-2
+Aston Villa F.C.,Manchester City F.C.,2-1
+Aston Villa F.C.,Manchester United F.C.,0-0
+Aston Villa F.C.,Newcastle United F.C.,4-1
+Aston Villa F.C.,Nottingham Forest F.C.,2-1
+Aston Villa F.C.,Southampton F.C.,1-0
+Aston Villa F.C.,Tottenham Hotspur F.C.,2-0
+Aston Villa F.C.,West Ham United F.C.,1-1
+Aston Villa F.C.,Wolverhampton Wanderers F.C.,3-1
+AFC Bournemouth,Arsenal F.C.,2-0
+AFC Bournemouth,Aston Villa F.C.,0-1
+AFC Bournemouth,Brentford F.C.,1-2
+AFC Bournemouth,Brighton & Hove Albion F.C.,1-2
+AFC Bournemouth,Chelsea F.C.,0-1
+AFC Bournemouth,Crystal Palace F.C.,0-0
+AFC Bournemouth,Everton F.C.,1-0
+AFC Bournemouth,Fulham F.C.,1-0
+AFC Bournemouth,Ipswich Town F.C.,1-2
+AFC Bournemouth,Leicester City F.C.,2-0
+AFC Bournemouth,Liverpool F.C.,0-2
+AFC Bournemouth,Manchester City F.C.,2-1
+AFC Bournemouth,Manchester United F.C.,1-1
+AFC Bournemouth,Newcastle United F.C.,1-1
+AFC Bournemouth,Nottingham Forest F.C.,5-0
+AFC Bournemouth,Southampton F.C.,3-1
+AFC Bournemouth,Tottenham Hotspur F.C.,1-0
+AFC Bournemouth,West Ham United F.C.,1-1
+AFC Bournemouth,Wolverhampton Wanderers F.C.,0-1
+Brentford F.C.,Arsenal F.C.,1-3
+Brentford F.C.,Aston Villa F.C.,0-1
+Brentford F.C.,AFC Bournemouth,3-2
+Brentford F.C.,Brighton & Hove Albion F.C.,4-2
+Brentford F.C.,Chelsea F.C.,0-0
+Brentford F.C.,Crystal Palace F.C.,2-1
+Brentford F.C.,Everton F.C.,1-1
+Brentford F.C.,Fulham F.C.,2-3
+Brentford F.C.,Ipswich Town F.C.,4-3
+Brentford F.C.,Leicester City F.C.,4-1
+Brentford F.C.,Liverpool F.C.,0-2
+Brentford F.C.,Manchester City F.C.,2-2
+Brentford F.C.,Manchester United F.C.,4-3
+Brentford F.C.,Newcastle United F.C.,4-2
+Brentford F.C.,Nottingham Forest F.C.,0-2
+Brentford F.C.,Southampton F.C.,3-1
+Brentford F.C.,Tottenham Hotspur F.C.,0-2
+Brentford F.C.,West Ham United F.C.,1-1
+Brentford F.C.,Wolverhampton Wanderers F.C.,5-3
+Brighton & Hove Albion F.C.,Arsenal F.C.,1-1
+Brighton & Hove Albion F.C.,Aston Villa F.C.,0-3
+Brighton & Hove Albion F.C.,AFC Bournemouth,2-1
+Brighton & Hove Albion F.C.,Brentford F.C.,0-0
+Brighton & Hove Albion F.C.,Chelsea F.C.,3-0
+Brighton & Hove Albion F.C.,Crystal Palace F.C.,1-3
+Brighton & Hove Albion F.C.,Everton F.C.,0-1
+Brighton & Hove Albion F.C.,Fulham F.C.,2-1
+Brighton & Hove Albion F.C.,Ipswich Town F.C.,0-0
+Brighton & Hove Albion F.C.,Leicester City F.C.,2-2
+Brighton & Hove Albion F.C.,Liverpool F.C.,3-2
+Brighton & Hove Albion F.C.,Manchester City F.C.,2-1
+Brighton & Hove Albion F.C.,Manchester United F.C.,2-1
+Brighton & Hove Albion F.C.,Newcastle United F.C.,1-1
+Brighton & Hove Albion F.C.,Nottingham Forest F.C.,2-2
+Brighton & Hove Albion F.C.,Southampton F.C.,1-1
+Brighton & Hove Albion F.C.,Tottenham Hotspur F.C.,3-2
+Brighton & Hove Albion F.C.,West Ham United F.C.,3-2
+Brighton & Hove Albion F.C.,Wolverhampton Wanderers F.C.,2-2
+Chelsea F.C.,Arsenal F.C.,1-1
+Chelsea F.C.,Aston Villa F.C.,3-0
+Chelsea F.C.,AFC Bournemouth,2-2
+Chelsea F.C.,Brentford F.C.,2-1
+Chelsea F.C.,Brighton & Hove Albion F.C.,4-2
+Chelsea F.C.,Crystal Palace F.C.,1-1
+Chelsea F.C.,Everton F.C.,1-0
+Chelsea F.C.,Fulham F.C.,1-2
+Chelsea F.C.,Ipswich Town F.C.,2-2
+Chelsea F.C.,Leicester City F.C.,1-0
+Chelsea F.C.,Liverpool F.C.,3-1
+Chelsea F.C.,Manchester City F.C.,0-2
+Chelsea F.C.,Manchester United F.C.,1-0
+Chelsea F.C.,Newcastle United F.C.,2-1
+Chelsea F.C.,Nottingham Forest F.C.,1-1
+Chelsea F.C.,Southampton F.C.,4-0
+Chelsea F.C.,Tottenham Hotspur F.C.,1-0
+Chelsea F.C.,West Ham United F.C.,2-1
+Chelsea F.C.,Wolverhampton Wanderers F.C.,3-1
+Crystal Palace F.C.,Arsenal F.C.,1-5
+Crystal Palace F.C.,Aston Villa F.C.,4-1
+Crystal Palace F.C.,AFC Bournemouth,0-0
+Crystal Palace F.C.,Brentford F.C.,1-2
+Crystal Palace F.C.,Brighton & Hove Albion F.C.,2-1
+Crystal Palace F.C.,Chelsea F.C.,1-1
+Crystal Palace F.C.,Everton F.C.,1-2
+Crystal Palace F.C.,Fulham F.C.,0-2
+Crystal Palace F.C.,Ipswich Town F.C.,1-0
+Crystal Palace F.C.,Leicester City F.C.,2-2
+Crystal Palace F.C.,Liverpool F.C.,0-1
+Crystal Palace F.C.,Manchester City F.C.,2-2
+Crystal Palace F.C.,Manchester United F.C.,0-0
+Crystal Palace F.C.,Newcastle United F.C.,1-1
+Crystal Palace F.C.,Nottingham Forest F.C.,1-1
+Crystal Palace F.C.,Southampton F.C.,2-1
+Crystal Palace F.C.,Tottenham Hotspur F.C.,1-0
+Crystal Palace F.C.,West Ham United F.C.,0-2
+Crystal Palace F.C.,Wolverhampton Wanderers F.C.,4-2
+Everton F.C.,Arsenal F.C.,1-1
+Everton F.C.,Aston Villa F.C.,0-1
+Everton F.C.,AFC Bournemouth,2-3
+Everton F.C.,Brentford F.C.,0-0
+Everton F.C.,Brighton & Hove Albion F.C.,0-3
+Everton F.C.,Chelsea F.C.,0-0
+Everton F.C.,Crystal Palace F.C.,2-1
+Everton F.C.,Fulham F.C.,1-1
+Everton F.C.,Ipswich Town F.C.,2-2
+Everton F.C.,Leicester City F.C.,4-0
+Everton F.C.,Liverpool F.C.,2-2
+Everton F.C.,Manchester City F.C.,0-2
+Everton F.C.,Manchester United F.C.,2-2
+Everton F.C.,Newcastle United F.C.,0-0
+Everton F.C.,Nottingham Forest F.C.,0-2
+Everton F.C.,Southampton F.C.,2-0
+Everton F.C.,Tottenham Hotspur F.C.,3-2
+Everton F.C.,West Ham United F.C.,1-1
+Everton F.C.,Wolverhampton Wanderers F.C.,4-0
+Fulham F.C.,Arsenal F.C.,1-1
+Fulham F.C.,Aston Villa F.C.,1-3
+Fulham F.C.,AFC Bournemouth,2-2
+Fulham F.C.,Brentford F.C.,2-1
+Fulham F.C.,Brighton & Hove Albion F.C.,3-1
+Fulham F.C.,Chelsea F.C.,1-2
+Fulham F.C.,Crystal Palace F.C.,0-2
+Fulham F.C.,Everton F.C.,1-3
+Fulham F.C.,Ipswich Town F.C.,2-2
+Fulham F.C.,Leicester City F.C.,2-1
+Fulham F.C.,Liverpool F.C.,3-2
+Fulham F.C.,Manchester City F.C.,0-2
+Fulham F.C.,Manchester United F.C.,0-1
+Fulham F.C.,Newcastle United F.C.,3-1
+Fulham F.C.,Nottingham Forest F.C.,2-1
+Fulham F.C.,Southampton F.C.,0-0
+Fulham F.C.,Tottenham Hotspur F.C.,2-0
+Fulham F.C.,West Ham United F.C.,1-1
+Fulham F.C.,Wolverhampton Wanderers F.C.,1-4
+Ipswich Town F.C.,Arsenal F.C.,0-4
+Ipswich Town F.C.,Aston Villa F.C.,2-2
+Ipswich Town F.C.,AFC Bournemouth,1-2
+Ipswich Town F.C.,Brentford F.C.,0-1
+Ipswich Town F.C.,Brighton & Hove Albion F.C.,0-2
+Ipswich Town F.C.,Chelsea F.C.,2-0
+Ipswich Town F.C.,Crystal Palace F.C.,0-1
+Ipswich Town F.C.,Everton F.C.,0-2
+Ipswich Town F.C.,Fulham F.C.,1-1
+Ipswich Town F.C.,Leicester City F.C.,1-1
+Ipswich Town F.C.,Liverpool F.C.,0-2
+Ipswich Town F.C.,Manchester City F.C.,0-6
+Ipswich Town F.C.,Manchester United F.C.,1-1
+Ipswich Town F.C.,Newcastle United F.C.,0-4
+Ipswich Town F.C.,Nottingham Forest F.C.,2-4
+Ipswich Town F.C.,Southampton F.C.,1-2
+Ipswich Town F.C.,Tottenham Hotspur F.C.,1-4
+Ipswich Town F.C.,West Ham United F.C.,1-3
+Ipswich Town F.C.,Wolverhampton Wanderers F.C.,1-2
+Leicester City F.C.,Arsenal F.C.,0-2
+Leicester City F.C.,Aston Villa F.C.,1-2
+Leicester City F.C.,AFC Bournemouth,1-0
+Leicester City F.C.,Brentford F.C.,0-4
+Leicester City F.C.,Brighton & Hove Albion F.C.,2-2
+Leicester City F.C.,Chelsea F.C.,1-2
+Leicester City F.C.,Crystal Palace F.C.,0-2
+Leicester City F.C.,Everton F.C.,1-1
+Leicester City F.C.,Fulham F.C.,0-2
+Leicester City F.C.,Ipswich Town F.C.,2-0
+Leicester City F.C.,Liverpool F.C.,0-1
+Leicester City F.C.,Manchester City F.C.,0-2
+Leicester City F.C.,Manchester United F.C.,0-3
+Leicester City F.C.,Newcastle United F.C.,0-3
+Leicester City F.C.,Nottingham Forest F.C.,1-3
+Leicester City F.C.,Southampton F.C.,2-0
+Leicester City F.C.,Tottenham Hotspur F.C.,1-1
+Leicester City F.C.,West Ham United F.C.,3-1
+Leicester City F.C.,Wolverhampton Wanderers F.C.,0-3
+Liverpool F.C.,Arsenal F.C.,2-2
+Liverpool F.C.,Aston Villa F.C.,2-0
+Liverpool F.C.,AFC Bournemouth,3-0
+Liverpool F.C.,Brentford F.C.,2-0
+Liverpool F.C.,Brighton & Hove Albion F.C.,2-1
+Liverpool F.C.,Chelsea F.C.,2-1
+Liverpool F.C.,Crystal Palace F.C.,1-1
+Liverpool F.C.,Everton F.C.,1-0
+Liverpool F.C.,Fulham F.C.,2-2
+Liverpool F.C.,Ipswich Town F.C.,4-1
+Liverpool F.C.,Leicester City F.C.,3-1
+Liverpool F.C.,Manchester City F.C.,2-0
+Liverpool F.C.,Manchester United F.C.,2-2
+Liverpool F.C.,Newcastle United F.C.,2-0
+Liverpool F.C.,Nottingham Forest F.C.,0-1
+Liverpool F.C.,Southampton F.C.,3-1
+Liverpool F.C.,Tottenham Hotspur F.C.,5-1
+Liverpool F.C.,West Ham United F.C.,2-1
+Liverpool F.C.,Wolverhampton Wanderers F.C.,2-1
+Manchester City F.C.,Arsenal F.C.,2-2
+Manchester City F.C.,Aston Villa F.C.,2-1
+Manchester City F.C.,AFC Bournemouth,3-1
+Manchester City F.C.,Brentford F.C.,2-1
+Manchester City F.C.,Brighton & Hove Albion F.C.,2-2
+Manchester City F.C.,Chelsea F.C.,3-1
+Manchester City F.C.,Crystal Palace F.C.,5-2
+Manchester City F.C.,Everton F.C.,1-1
+Manchester City F.C.,Fulham F.C.,3-2
+Manchester City F.C.,Ipswich Town F.C.,4-1
+Manchester City F.C.,Leicester City F.C.,2-0
+Manchester City F.C.,Liverpool F.C.,0-2
+Manchester City F.C.,Manchester United F.C.,1-2
+Manchester City F.C.,Newcastle United F.C.,4-0
+Manchester City F.C.,Nottingham Forest F.C.,3-0
+Manchester City F.C.,Southampton F.C.,1-0
+Manchester City F.C.,Tottenham Hotspur F.C.,0-4
+Manchester City F.C.,West Ham United F.C.,4-1
+Manchester City F.C.,Wolverhampton Wanderers F.C.,1-0
+Manchester United F.C.,Arsenal F.C.,1-1
+Manchester United F.C.,Aston Villa F.C.,2-0
+Manchester United F.C.,AFC Bournemouth,0-3
+Manchester United F.C.,Brentford F.C.,2-1
+Manchester United F.C.,Brighton & Hove Albion F.C.,1-3
+Manchester United F.C.,Chelsea F.C.,1-1
+Manchester United F.C.,Crystal Palace F.C.,0-2
+Manchester United F.C.,Everton F.C.,4-0
+Manchester United F.C.,Fulham F.C.,1-0
+Manchester United F.C.,Ipswich Town F.C.,3-2
+Manchester United F.C.,Leicester City F.C.,3-0
+Manchester United F.C.,Liverpool F.C.,0-3
+Manchester United F.C.,Manchester City F.C.,0-0
+Manchester United F.C.,Newcastle United F.C.,0-2
+Manchester United F.C.,Nottingham Forest F.C.,2-3
+Manchester United F.C.,Southampton F.C.,3-1
+Manchester United F.C.,Tottenham Hotspur F.C.,0-3
+Manchester United F.C.,West Ham United F.C.,0-2
+Manchester United F.C.,Wolverhampton Wanderers F.C.,0-1
+Newcastle United F.C.,Arsenal F.C.,1-0
+Newcastle United F.C.,Aston Villa F.C.,3-0
+Newcastle United F.C.,AFC Bournemouth,1-4
+Newcastle United F.C.,Brentford F.C.,2-1
+Newcastle United F.C.,Brighton & Hove Albion F.C.,0-1
+Newcastle United F.C.,Chelsea F.C.,2-0
+Newcastle United F.C.,Crystal Palace F.C.,5-0
+Newcastle United F.C.,Everton F.C.,0-1
+Newcastle United F.C.,Fulham F.C.,1-2
+Newcastle United F.C.,Ipswich Town F.C.,3-0
+Newcastle United F.C.,Leicester City F.C.,4-0
+Newcastle United F.C.,Liverpool F.C.,3-3
+Newcastle United F.C.,Manchester City F.C.,1-1
+Newcastle United F.C.,Manchester United F.C.,4-1
+Newcastle United F.C.,Nottingham Forest F.C.,4-3
+Newcastle United F.C.,Southampton F.C.,1-0
+Newcastle United F.C.,Tottenham Hotspur F.C.,2-1
+Newcastle United F.C.,West Ham United F.C.,0-2
+Newcastle United F.C.,Wolverhampton Wanderers F.C.,3-0
+Nottingham Forest F.C.,Arsenal F.C.,0-0
+Nottingham Forest F.C.,Aston Villa F.C.,2-1
+Nottingham Forest F.C.,AFC Bournemouth,1-1
+Nottingham Forest F.C.,Brentford F.C.,0-2
+Nottingham Forest F.C.,Brighton & Hove Albion F.C.,7-0
+Nottingham Forest F.C.,Chelsea F.C.,0-1
+Nottingham Forest F.C.,Crystal Palace F.C.,1-0
+Nottingham Forest F.C.,Everton F.C.,0-1
+Nottingham Forest F.C.,Fulham F.C.,0-1
+Nottingham Forest F.C.,Ipswich Town F.C.,1-0
+Nottingham Forest F.C.,Leicester City F.C.,2-2
+Nottingham Forest F.C.,Liverpool F.C.,1-1
+Nottingham Forest F.C.,Manchester City F.C.,1-0
+Nottingham Forest F.C.,Manchester United F.C.,1-0
+Nottingham Forest F.C.,Newcastle United F.C.,1-3
+Nottingham Forest F.C.,Southampton F.C.,3-2
+Nottingham Forest F.C.,Tottenham Hotspur F.C.,1-0
+Nottingham Forest F.C.,West Ham United F.C.,3-0
+Nottingham Forest F.C.,Wolverhampton Wanderers F.C.,1-1
+Southampton F.C.,Arsenal F.C.,1-2
+Southampton F.C.,Aston Villa F.C.,0-3
+Southampton F.C.,AFC Bournemouth,1-3
+Southampton F.C.,Brentford F.C.,0-5
+Southampton F.C.,Brighton & Hove Albion F.C.,0-4
+Southampton F.C.,Chelsea F.C.,1-5
+Southampton F.C.,Crystal Palace F.C.,1-1
+Southampton F.C.,Everton F.C.,1-0
+Southampton F.C.,Fulham F.C.,1-2
+Southampton F.C.,Ipswich Town F.C.,1-1
+Southampton F.C.,Leicester City F.C.,2-3
+Southampton F.C.,Liverpool F.C.,2-3
+Southampton F.C.,Manchester City F.C.,0-0
+Southampton F.C.,Manchester United F.C.,0-3
+Southampton F.C.,Newcastle United F.C.,1-3
+Southampton F.C.,Nottingham Forest F.C.,0-1
+Southampton F.C.,Tottenham Hotspur F.C.,0-5
+Southampton F.C.,West Ham United F.C.,0-1
+Southampton F.C.,Wolverhampton Wanderers F.C.,1-2
+Tottenham Hotspur F.C.,Arsenal F.C.,0-1
+Tottenham Hotspur F.C.,Aston Villa F.C.,4-1
+Tottenham Hotspur F.C.,AFC Bournemouth,2-2
+Tottenham Hotspur F.C.,Brentford F.C.,3-1
+Tottenham Hotspur F.C.,Brighton & Hove Albion F.C.,1-4
+Tottenham Hotspur F.C.,Chelsea F.C.,3-4
+Tottenham Hotspur F.C.,Crystal Palace F.C.,0-2
+Tottenham Hotspur F.C.,Everton F.C.,4-0
+Tottenham Hotspur F.C.,Fulham F.C.,1-1
+Tottenham Hotspur F.C.,Ipswich Town F.C.,1-2
+Tottenham Hotspur F.C.,Leicester City F.C.,1-2
+Tottenham Hotspur F.C.,Liverpool F.C.,3-6
+Tottenham Hotspur F.C.,Manchester City F.C.,0-1
+Tottenham Hotspur F.C.,Manchester United F.C.,1-0
+Tottenham Hotspur F.C.,Newcastle United F.C.,1-2
+Tottenham Hotspur F.C.,Nottingham Forest F.C.,1-2
+Tottenham Hotspur F.C.,Southampton F.C.,3-1
+Tottenham Hotspur F.C.,West Ham United F.C.,4-1
+Tottenham Hotspur F.C.,Wolverhampton Wanderers F.C.,2-2
+West Ham United F.C.,Arsenal F.C.,2-5
+West Ham United F.C.,Aston Villa F.C.,1-2
+West Ham United F.C.,AFC Bournemouth,2-2
+West Ham United F.C.,Brentford F.C.,0-1
+West Ham United F.C.,Brighton & Hove Albion F.C.,1-1
+West Ham United F.C.,Chelsea F.C.,0-3
+West Ham United F.C.,Crystal Palace F.C.,0-2
+West Ham United F.C.,Everton F.C.,0-0
+West Ham United F.C.,Fulham F.C.,3-2
+West Ham United F.C.,Ipswich Town F.C.,4-1
+West Ham United F.C.,Leicester City F.C.,2-0
+West Ham United F.C.,Liverpool F.C.,0-5
+West Ham United F.C.,Manchester City F.C.,1-3
+West Ham United F.C.,Manchester United F.C.,2-1
+West Ham United F.C.,Newcastle United F.C.,0-1
+West Ham United F.C.,Nottingham Forest F.C.,1-2
+West Ham United F.C.,Southampton F.C.,1-1
+West Ham United F.C.,Tottenham Hotspur F.C.,1-1
+West Ham United F.C.,Wolverhampton Wanderers F.C.,2-1
+Wolverhampton Wanderers F.C.,Arsenal F.C.,0-1
+Wolverhampton Wanderers F.C.,Aston Villa F.C.,2-0
+Wolverhampton Wanderers F.C.,AFC Bournemouth,2-4
+Wolverhampton Wanderers F.C.,Brentford F.C.,1-1
+Wolverhampton Wanderers F.C.,Brighton & Hove Albion F.C.,0-2
+Wolverhampton Wanderers F.C.,Chelsea F.C.,2-6
+Wolverhampton Wanderers F.C.,Crystal Palace F.C.,2-2
+Wolverhampton Wanderers F.C.,Everton F.C.,1-1
+Wolverhampton Wanderers F.C.,Fulham F.C.,1-2
+Wolverhampton Wanderers F.C.,Ipswich Town F.C.,1-2
+Wolverhampton Wanderers F.C.,Leicester City F.C.,3-0
+Wolverhampton Wanderers F.C.,Liverpool F.C.,1-2
+Wolverhampton Wanderers F.C.,Manchester City F.C.,1-2
+Wolverhampton Wanderers F.C.,Manchester United F.C.,2-0
+Wolverhampton Wanderers F.C.,Newcastle United F.C.,1-2
+Wolverhampton Wanderers F.C.,Nottingham Forest F.C.,0-3
+Wolverhampton Wanderers F.C.,Southampton F.C.,2-0
+Wolverhampton Wanderers F.C.,Tottenham Hotspur F.C.,4-2
+Wolverhampton Wanderers F.C.,West Ham United F.C.,1-0
